@@ -1,5 +1,19 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-cosiner-argv (0.1.0-3) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + golang-github-cosiner-argv-dev: Add Multi-Arch: foreign.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 26 Nov 2022 03:32:46 +0000
+
+golang-github-cosiner-argv (0.1.0-2) unstable; urgency=medium
+
+  * Team upload.
+  * Source only upload for testing migration.
+
+ -- Shengjing Zhu <zhsj@debian.org>  Wed, 16 Sep 2020 23:21:22 +0800
+
+golang-github-cosiner-argv (0.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: 933789)
+
+ -- Emanuel Krivoy <ekrivoy@gmail.com>  Sun, 30 Aug 2020 17:50:21 +0800
